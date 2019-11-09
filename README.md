@@ -3,4 +3,4 @@ A fun little project I did to familiarize myself with Android Studio and Kotlin.
 
 ## Screenshots
 
-<img src="./cat.png" alt="cat_meme" style= "margin-right: 20px"/> <img src="./caption.png" alt="caption"/>
+<img src="./cat.png" alt="cat_meme"/> <img src="./caption.png" alt="caption"/>
